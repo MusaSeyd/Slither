@@ -1,1 +1,3 @@
-A simple snake game in python with the pygame library
+ ## Змейка
+
+ Игра Змейка, написанная на Python, с помощью библиотеки pygame
